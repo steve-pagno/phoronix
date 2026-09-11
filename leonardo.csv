@@ -1,0 +1,97 @@
+,leonardo-desktop,
+
+ ,,"KINGSTON SNV2S1000G - Gigabyte AMD Radeon Vega"
+Processor,,AMD Ryzen 5 5600G @ 4.47GHz (6 Cores / 12 Threads)
+Motherboard,,Gigabyte A520M AORUS ELITE (F18a BIOS)
+Chipset,,AMD Renoir/Cezanne
+Memory,,16GB
+Disk,,1000GB KINGSTON SNV2S1000G + 480GB KINGSTON SA400S3 + 31GB DataTraveler 3.0
+Graphics,,Gigabyte AMD Radeon Vega / Mobile 512MB
+Audio,,AMD Renoir/Cezanne
+Monitor,,LG FULL HD
+Network,,Realtek RTL8111/8168/8211/8411
+OS,,Arch rolling
+Kernel,,7.2.3-arch1-3 (x86_64)
+Desktop,,GNOME Shell 50.4
+Display Server,,X Server + Wayland
+OpenGL,,4.6 Mesa 26.2.2-arch1.1
+Compiler,,GCC 16.2.1 20260810 + Clang 22.1.8
+File-System,,btrfs
+Screen Resolution,,1920x1080
+
+ ,,"KINGSTON SNV2S1000G - Gigabyte AMD Radeon Vega"
+"SQLite - Threads / Copies: 1 (sec)",LIB,51.204
+"SQLite - Threads / Copies: 2 (sec)",LIB,100.821
+"SQLite - Threads / Copies: 4 (sec)",LIB,122.510
+"SQLite - Threads / Copies: 8 (sec)",LIB,166.415
+"SQLite - Threads / Copies: 12 (sec)",LIB,226.452
+"GpuTest - Test: GiMark - Resolution: 800 x 600 - Mode: Windowed (Points)",HIB,3827
+"GpuTest - Test: Plot3D - Resolution: 800 x 600 - Mode: Windowed (Points)",HIB,53236
+"GpuTest - Test: Furmark - Resolution: 800 x 600 - Mode: Windowed (Points)",HIB,3046
+"GpuTest - Test: GiMark - Resolution: 1024 x 768 - Mode: Windowed (Points)",HIB,3602
+"GpuTest - Test: Plot3D - Resolution: 1024 x 768 - Mode: Windowed (Points)",HIB,41062
+"GpuTest - Test: Furmark - Resolution: 1024 x 768 - Mode: Windowed (Points)",HIB,2257
+"GpuTest - Test: GiMark - Resolution: 1280 x 1024 - Mode: Windowed (Points)",HIB,3194
+"GpuTest - Test: GiMark - Resolution: 1920 x 1080 - Mode: Windowed (Points)",HIB,2887
+"GpuTest - Test: GiMark - Resolution: 800 x 600 - Mode: Fullscreen (Points)",HIB,2946
+"GpuTest - Test: Plot3D - Resolution: 1280 x 1024 - Mode: Windowed (Points)",HIB,30427
+"GpuTest - Test: Plot3D - Resolution: 1920 x 1080 - Mode: Windowed (Points)",HIB,24828
+"GpuTest - Test: Plot3D - Resolution: 800 x 600 - Mode: Fullscreen (Points)",HIB,27198
+"GpuTest - Test: TessMark - Resolution: 800 x 600 - Mode: Windowed (Points)",HIB,9591
+"GpuTest - Test: Triangle - Resolution: 800 x 600 - Mode: Windowed (Points)",HIB,509735
+"GpuTest - Test: Furmark - Resolution: 1280 x 1024 - Mode: Windowed (Points)",HIB,1560
+"GpuTest - Test: Furmark - Resolution: 1920 x 1080 - Mode: Windowed (Points)",HIB,1503
+"GpuTest - Test: Furmark - Resolution: 800 x 600 - Mode: Fullscreen (Points)",HIB,1442
+"GpuTest - Test: GiMark - Resolution: 1024 x 768 - Mode: Fullscreen (Points)",HIB,2907
+"GpuTest - Test: Plot3D - Resolution: 1024 x 768 - Mode: Fullscreen (Points)",HIB,27151
+"GpuTest - Test: TessMark - Resolution: 1024 x 768 - Mode: Windowed (Points)",HIB,8644
+"GpuTest - Test: Triangle - Resolution: 1024 x 768 - Mode: Windowed (Points)",HIB,366395
+"GpuTest - Test: Furmark - Resolution: 1024 x 768 - Mode: Fullscreen (Points)",HIB,1441
+"GpuTest - Test: GiMark - Resolution: 1280 x 1024 - Mode: Fullscreen (Points)",HIB,2977
+"GpuTest - Test: GiMark - Resolution: 1920 x 1080 - Mode: Fullscreen (Points)",HIB,2988
+"GpuTest - Test: Plot3D - Resolution: 1280 x 1024 - Mode: Fullscreen (Points)",HIB,27252
+"GpuTest - Test: Plot3D - Resolution: 1920 x 1080 - Mode: Fullscreen (Points)",HIB,27376
+"GpuTest - Test: TessMark - Resolution: 1280 x 1024 - Mode: Windowed (Points)",HIB,7539
+"GpuTest - Test: TessMark - Resolution: 1920 x 1080 - Mode: Windowed (Points)",HIB,7181
+"GpuTest - Test: TessMark - Resolution: 800 x 600 - Mode: Fullscreen (Points)",HIB,7473
+"GpuTest - Test: Triangle - Resolution: 1280 x 1024 - Mode: Windowed (Points)",HIB,227224
+"GpuTest - Test: Triangle - Resolution: 1920 x 1080 - Mode: Windowed (Points)",HIB,144466
+"GpuTest - Test: Triangle - Resolution: 800 x 600 - Mode: Fullscreen (Points)",HIB,225932
+"GpuTest - Test: Furmark - Resolution: 1280 x 1024 - Mode: Fullscreen (Points)",HIB,1438
+"GpuTest - Test: Furmark - Resolution: 1920 x 1080 - Mode: Fullscreen (Points)",HIB,1436
+"GpuTest - Test: TessMark - Resolution: 1024 x 768 - Mode: Fullscreen (Points)",HIB,7110
+"GpuTest - Test: Triangle - Resolution: 1024 x 768 - Mode: Fullscreen (Points)",HIB,232592
+"GpuTest - Test: TessMark - Resolution: 1280 x 1024 - Mode: Fullscreen (Points)",HIB,7145
+"GpuTest - Test: TessMark - Resolution: 1920 x 1080 - Mode: Fullscreen (Points)",HIB,7197
+"GpuTest - Test: Triangle - Resolution: 1280 x 1024 - Mode: Fullscreen (Points)",HIB,212673
+"GpuTest - Test: Triangle - Resolution: 1920 x 1080 - Mode: Fullscreen (Points)",HIB,218854
+"GpuTest - Test: Pixmark Piano - Resolution: 800 x 600 - Mode: Windowed (Points)",HIB,2213
+"GpuTest - Test: Pixmark Piano - Resolution: 1024 x 768 - Mode: Windowed (Points)",HIB,1378
+"GpuTest - Test: Pixmark Piano - Resolution: 1280 x 1024 - Mode: Windowed (Points)",HIB,846
+"GpuTest - Test: Pixmark Piano - Resolution: 1920 x 1080 - Mode: Windowed (Points)",HIB,576
+"GpuTest - Test: Pixmark Piano - Resolution: 800 x 600 - Mode: Fullscreen (Points)",HIB,540
+"GpuTest - Test: Pixmark Piano - Resolution: 1024 x 768 - Mode: Fullscreen (Points)",HIB,540
+"GpuTest - Test: Pixmark Piano - Resolution: 1280 x 1024 - Mode: Fullscreen (Points)",HIB,540
+"GpuTest - Test: Pixmark Piano - Resolution: 1920 x 1080 - Mode: Fullscreen (Points)",HIB,540
+"GpuTest - Test: Pixmark Volplosion - Resolution: 800 x 600 - Mode: Windowed (Points)",HIB,5416
+"GpuTest - Test: Pixmark Volplosion - Resolution: 1024 x 768 - Mode: Windowed (Points)",HIB,3303
+"GpuTest - Test: Pixmark Volplosion - Resolution: 1280 x 1024 - Mode: Windowed (Points)",HIB,2008
+"GpuTest - Test: Pixmark Volplosion - Resolution: 1920 x 1080 - Mode: Windowed (Points)",HIB,1381
+"GpuTest - Test: Pixmark Volplosion - Resolution: 800 x 600 - Mode: Fullscreen (Points)",HIB,1297
+"GpuTest - Test: Pixmark Volplosion - Resolution: 1024 x 768 - Mode: Fullscreen (Points)",HIB,1299
+"GpuTest - Test: Pixmark Volplosion - Resolution: 1280 x 1024 - Mode: Fullscreen (Points)",HIB,1296
+"GpuTest - Test: Pixmark Volplosion - Resolution: 1920 x 1080 - Mode: Fullscreen (Points)",HIB,1298
+"RAMspeed SMP - Type: Add - Benchmark: Integer (MB/s)",HIB,29121.49
+"RAMspeed SMP - Type: Copy - Benchmark: Integer (MB/s)",HIB,24942.86
+"RAMspeed SMP - Type: Scale - Benchmark: Integer (MB/s)",HIB,26592.52
+"RAMspeed SMP - Type: Triad - Benchmark: Integer (MB/s)",HIB,29261.45
+"RAMspeed SMP - Type: Average - Benchmark: Integer (MB/s)",HIB,27411.32
+"RAMspeed SMP - Type: Add - Benchmark: Floating Point (MB/s)",HIB,29190.07
+"RAMspeed SMP - Type: Copy - Benchmark: Floating Point (MB/s)",HIB,24976.55
+"RAMspeed SMP - Type: Scale - Benchmark: Floating Point (MB/s)",HIB,24951.27
+"RAMspeed SMP - Type: Triad - Benchmark: Floating Point (MB/s)",HIB,29334.32
+"RAMspeed SMP - Type: Average - Benchmark: Floating Point (MB/s)",HIB,26766.64
+"7-Zip Compression - Test: Compression Rating (MIPS)",HIB,61359
+"7-Zip Compression - Test: Decompression Rating (MIPS)",HIB,52908
+"FLAC Audio Encoding - WAV To FLAC (sec)",LIB,57.805
+

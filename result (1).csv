@@ -1,0 +1,47 @@
+,first test,
+
+ ,,"0001"
+Processor,,Intel Core i7-1255U @ 4.70GHz (10 Cores / 12 Threads)
+Motherboard,,ASUS K3504ZA v1.0 (K3504ZA.201 BIOS)
+Chipset,,Intel Alder Lake PCH
+Memory,,16GB
+Disk,,512GB Micron_2400_MTFDKBA512QFM
+Graphics,,ASUS Intel Iris Xe ADL GT2 15GB
+Audio,,Realtek ALC256
+Network,,Intel Alder Lake-P PCH CNVi WiFi
+OS,,Zorin 18
+Kernel,,7.0.0-31-generic (x86_64)
+Desktop,,GNOME Shell 46.0
+Display Server,,X Server + Wayland
+OpenGL,,4.6 Mesa 25.2.8-0ubuntu0.24.04.2
+Compiler,,GCC 13.3.0
+File-System,,ext4
+Screen Resolution,,1920x1080
+
+ ,,"0001"
+"SQLite - Threads / Copies: 1 (sec)",LIB,14.191
+"SQLite - Threads / Copies: 2 (sec)",LIB,19.264
+"SQLite - Threads / Copies: 4 (sec)",LIB,18.956
+"SQLite - Threads / Copies: 8 (sec)",LIB,19.124
+"SQLite - Threads / Copies: 12 (sec)",LIB,19.659
+"GpuTest - Test: GiMark - Resolution: 1920 x 1080 - Mode: Fullscreen (Points)",HIB,1998
+"GpuTest - Test: Plot3D - Resolution: 1920 x 1080 - Mode: Fullscreen (Points)",HIB,10922
+"GpuTest - Test: Furmark - Resolution: 1920 x 1080 - Mode: Fullscreen (Points)",HIB,2031
+"GpuTest - Test: TessMark - Resolution: 1920 x 1080 - Mode: Fullscreen (Points)",HIB,5023
+"GpuTest - Test: Triangle - Resolution: 1920 x 1080 - Mode: Fullscreen (Points)",HIB,155129
+"GpuTest - Test: Pixmark Piano - Resolution: 1920 x 1080 - Mode: Fullscreen (Points)",HIB,590
+"GpuTest - Test: Pixmark Volplosion - Resolution: 1920 x 1080 - Mode: Fullscreen (Points)",HIB,1698
+"RAMspeed SMP - Type: Add - Benchmark: Integer (MB/s)",HIB,24793.56
+"RAMspeed SMP - Type: Copy - Benchmark: Integer (MB/s)",HIB,21084.46
+"RAMspeed SMP - Type: Scale - Benchmark: Integer (MB/s)",HIB,20935.82
+"RAMspeed SMP - Type: Triad - Benchmark: Integer (MB/s)",HIB,24679.87
+"RAMspeed SMP - Type: Average - Benchmark: Integer (MB/s)",HIB,22840.53
+"RAMspeed SMP - Type: Add - Benchmark: Floating Point (MB/s)",HIB,24689.61
+"RAMspeed SMP - Type: Copy - Benchmark: Floating Point (MB/s)",HIB,21115.43
+"RAMspeed SMP - Type: Scale - Benchmark: Floating Point (MB/s)",HIB,21128.80
+"RAMspeed SMP - Type: Triad - Benchmark: Floating Point (MB/s)",HIB,25185.79
+"RAMspeed SMP - Type: Average - Benchmark: Floating Point (MB/s)",HIB,23010.60
+"7-Zip Compression - Test: Compression Rating (MIPS)",HIB,37505
+"7-Zip Compression - Test: Decompression Rating (MIPS)",HIB,25807
+"FLAC Audio Encoding - WAV To FLAC (sec)",LIB,46.456
+

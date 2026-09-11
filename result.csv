@@ -1,0 +1,43 @@
+,1,
+
+ ,,"1"
+Processor,,AMD Ryzen 5 5600 6-Core @ 3.50GHz (6 Cores / 12 Threads)
+Motherboard,,O.E.M MCR-A520M-DXV4 (5.17 BIOS)
+Memory,,2 x 8192MB 2667MHz CMK8GX4M1A2666C16
+Disk,,119GB TEAM T253X2128G + 477GB NVME SSD 512GB
+Graphics,,AMD Radeon RX 7600 4GB
+Audio,,AMD Streaming Audio Device + Dispositivo de HD Audio + AMD HD Audio Device + DroidCam Audio
+Monitor,,HDMI;LG ULTRAGEAR
+Network,,Realtek PCIe GbE
+OS,,Microsoft Windows 11 Pro Build 26200
+Kernel,,10.0.26200.9168 (x86_64)
+Display Driver,,32.0.31041.1004
+OpenCL,,OpenCL 2.1 AMD-APP (3679.0)
+Compiler,,GCC 15.2.0
+File-System,,NTFS
+Screen Resolution,,1920x1080
+
+ ,,"1"
+"SQLite - Threads / Copies: 1 (sec)",LIB,7.443
+"SQLite - Threads / Copies: 2 (sec)",LIB,10.651
+"SQLite - Threads / Copies: 4 (sec)",LIB,18.865
+"SQLite - Threads / Copies: 8 (sec)",LIB,20.377
+"SQLite - Threads / Copies: 12 (sec)",LIB,21.948
+"GpuTest - Test: GiMark - Resolution: 1920 x 1080 - Mode: Windowed (Points)",HIB,10033
+"GpuTest - Test: Plot3D - Resolution: 1920 x 1080 - Mode: Windowed (Points)",HIB,124098
+"GpuTest - Test: Furmark - Resolution: 1920 x 1080 - Mode: Windowed (Points)",HIB,19900
+"GpuTest - Test: GiMark - Resolution: 1920 x 1080 - Mode: Fullscreen (Points)",HIB,9961
+"GpuTest - Test: Plot3D - Resolution: 1920 x 1080 - Mode: Fullscreen (Points)",HIB,100388
+"GpuTest - Test: TessMark - Resolution: 1920 x 1080 - Mode: Windowed (Points)",HIB,24338
+"GpuTest - Test: Triangle - Resolution: 1920 x 1080 - Mode: Windowed (Points)",HIB,299286
+"GpuTest - Test: Furmark - Resolution: 1920 x 1080 - Mode: Fullscreen (Points)",HIB,19172
+"GpuTest - Test: TessMark - Resolution: 1920 x 1080 - Mode: Fullscreen (Points)",HIB,23425
+"GpuTest - Test: Triangle - Resolution: 1920 x 1080 - Mode: Fullscreen (Points)",HIB,326007
+"GpuTest - Test: Pixmark Piano - Resolution: 1920 x 1080 - Mode: Windowed (Points)",HIB,6962
+"GpuTest - Test: Pixmark Piano - Resolution: 1920 x 1080 - Mode: Fullscreen (Points)",HIB,6754
+"GpuTest - Test: Pixmark Volplosion - Resolution: 1920 x 1080 - Mode: Windowed (Points)",HIB,13929
+"GpuTest - Test: Pixmark Volplosion - Resolution: 1920 x 1080 - Mode: Fullscreen (Points)",HIB,13399
+"7-Zip Compression - Test: Compression Rating (MIPS)",HIB,58079
+"7-Zip Compression - Test: Decompression Rating (MIPS)",HIB,53644
+"FLAC Audio Encoding - WAV To FLAC (sec)",LIB,24.474
+

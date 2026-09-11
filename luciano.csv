@@ -1,0 +1,56 @@
+,testluciano,
+
+ ,,"trabalho","trabalho_final","sqlite"
+Processor,,AMD Ryzen 7 7800X3D 8-Core @ 5.05GHz (8 Cores / 16 Threads),AMD Ryzen 7 7800X3D 8-Core @ 5.05GHz (8 Cores / 16 Threads),AMD Ryzen 7 7800X3D 8-Core @ 5.05GHz (8 Cores / 16 Threads)
+Motherboard,,ASUS TUF GAMING B650M-PLUS (3279 BIOS),ASUS TUF GAMING B650M-PLUS (3279 BIOS),ASUS TUF GAMING B650M-PLUS (3279 BIOS)
+Chipset,,AMD Raphael/Granite,AMD Raphael/Granite,AMD Raphael/Granite
+Memory,,32GB,32GB,32GB
+Disk,,1000GB KINGSTON SNV2S1000G + 960GB KINGSTON SA400S3,1000GB KINGSTON SNV2S1000G + 960GB KINGSTON SA400S3,1000GB KINGSTON SNV2S1000G + 960GB KINGSTON SA400S3
+Graphics,,ASUS NVIDIA GeForce RTX 5070 12GB,ASUS NVIDIA GeForce RTX 5070 12GB,ASUS NVIDIA GeForce RTX 5070 12GB
+Audio,,NVIDIA GB205 HD Audio,NVIDIA GB205 HD Audio,NVIDIA GB205 HD Audio
+Network,,Realtek RTL8125 2.5GbE,Realtek RTL8125 2.5GbE,Realtek RTL8125 2.5GbE
+OS,,cachyos rolling,cachyos rolling,cachyos rolling
+Kernel,,7.2.3-1-cachyos (x86_64),7.2.3-1-cachyos (x86_64),7.2.3-1-cachyos (x86_64)
+Desktop,,GNOME Shell 50.4,GNOME Shell 50.4,GNOME Shell 50.4
+Display Server,,Wayland,Wayland,Wayland
+Display Driver,,NVIDIA 610.57.04,NVIDIA 610.57.04,NVIDIA 610.57.04
+OpenGL,,4.6.0,4.6.0,4.6.0
+OpenCL,,OpenCL 3.0 CUDA 13.3.80,OpenCL 3.0 CUDA 13.3.80,OpenCL 3.0 CUDA 13.3.80
+Compiler,,GCC 16.2.1 20260810 + Clang 22.1.8 + LLVM 22.1.8,GCC 16.2.1 20260810 + Clang 22.1.8 + LLVM 22.1.8,GCC 16.2.1 20260810 + Clang 22.1.8 + LLVM 22.1.8
+File-System,,btrfs,btrfs,btrfs
+Screen Resolution,,2560x1440,2560x1440,2560x1440
+
+ ,,"trabalho","trabalho_final","sqlite"
+"SQLite - Threads / Copies: 1 (sec)",LIB,10.407,,10.610
+"SQLite - Threads / Copies: 2 (sec)",LIB,18.829,,18.842
+"SQLite - Threads / Copies: 4 (sec)",LIB,21.693,,21.771
+"GpuTest - Test: GiMark - Resolution: 1920 x 1080 - Mode: Windowed (Points)",HIB,,21597,
+"GpuTest - Test: Plot3D - Resolution: 1920 x 1080 - Mode: Windowed (Points)",HIB,,270462,
+"GpuTest - Test: Furmark - Resolution: 1920 x 1080 - Mode: Windowed (Points)",HIB,,28634,
+"GpuTest - Test: GiMark - Resolution: 1920 x 1080 - Mode: Fullscreen (Points)",HIB,,20607,
+"GpuTest - Test: Plot3D - Resolution: 1920 x 1080 - Mode: Fullscreen (Points)",HIB,,201923,
+"GpuTest - Test: TessMark - Resolution: 1920 x 1080 - Mode: Windowed (Points)",HIB,,73349,
+"GpuTest - Test: Triangle - Resolution: 1920 x 1080 - Mode: Windowed (Points)",HIB,,563478,
+"GpuTest - Test: Furmark - Resolution: 1920 x 1080 - Mode: Fullscreen (Points)",HIB,,18364,
+"GpuTest - Test: TessMark - Resolution: 1920 x 1080 - Mode: Fullscreen (Points)",HIB,,56234,
+"GpuTest - Test: Triangle - Resolution: 1920 x 1080 - Mode: Fullscreen (Points)",HIB,,397240,
+"GpuTest - Test: Pixmark Piano - Resolution: 1920 x 1080 - Mode: Windowed (Points)",HIB,,11023,
+"GpuTest - Test: Pixmark Piano - Resolution: 1920 x 1080 - Mode: Fullscreen (Points)",HIB,,6425,
+"GpuTest - Test: Pixmark Volplosion - Resolution: 1920 x 1080 - Mode: Windowed (Points)",HIB,,17365,
+"GpuTest - Test: Pixmark Volplosion - Resolution: 1920 x 1080 - Mode: Fullscreen (Points)",HIB,,9992,
+"RAMspeed SMP - Type: Add - Benchmark: Integer (MB/s)",HIB,,75574.26,
+"RAMspeed SMP - Type: Copy - Benchmark: Integer (MB/s)",HIB,,95809.52,
+"RAMspeed SMP - Type: Scale - Benchmark: Integer (MB/s)",HIB,,96266.00,
+"RAMspeed SMP - Type: Triad - Benchmark: Integer (MB/s)",HIB,,75447.01,
+"RAMspeed SMP - Type: Average - Benchmark: Integer (MB/s)",HIB,,85158.77,
+"RAMspeed SMP - Type: Add - Benchmark: Floating Point (MB/s)",HIB,,75466.54,
+"RAMspeed SMP - Type: Copy - Benchmark: Floating Point (MB/s)",HIB,,96034.53,
+"RAMspeed SMP - Type: Scale - Benchmark: Floating Point (MB/s)",HIB,,96201.53,
+"RAMspeed SMP - Type: Triad - Benchmark: Floating Point (MB/s)",HIB,,76689.58,
+"RAMspeed SMP - Type: Average - Benchmark: Floating Point (MB/s)",HIB,,85175.78,
+"7-Zip Compression - Test: Compression Rating (MIPS)",HIB,,117954,
+"7-Zip Compression - Test: Decompression Rating (MIPS)",HIB,,84740,
+"FLAC Audio Encoding - WAV To FLAC (sec)",LIB,,17.813,
+"SQLite - Threads / Copies: 8 (sec)",LIB,,,26.945
+"SQLite - Threads / Copies: 16 (sec)",LIB,,,33.980
+
